@@ -4,5 +4,15 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MecabricksTest_01.unity
+    guid: 06a6678233b06954ba457f5f12983e38
+  - enabled: 0
+    path: Assets/Scenes/MecabricksPolyhavenTest_01.unity
+    guid: eece031c9b958eb4bbb802109c75b07e
+  - enabled: 1
+    path: Assets/Scenes/TutorialTest_01.unity
+    guid: 8269d70a261abbd4ca126b98e07c98cc
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

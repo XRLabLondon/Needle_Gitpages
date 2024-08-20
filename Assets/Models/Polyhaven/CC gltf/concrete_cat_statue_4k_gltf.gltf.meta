@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: ee34f0b9434cdad40a2bccf146b99393
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 804e1ce4c496647cfa3f1a1134187c71, type: 3}
+  _removeEmptyRootObjects: 1
+  _scaleFactor: 1
+  _maximumLod: 300
+  _readWriteEnabled: 1
+  _generateColliders: 0
+  _swapUvs: 0
+  _generateLightmapUVs: 0
+  _importNormals: 0
+  _importTangents: 0
+  _importAnimations: 2
+  _addAnimatorComponent: 0
+  _animationLoopTime: 1
+  _animationLoopPose: 0
+  _importMaterials: 1
+  _useSceneNameIdentifier: 1
+  optimizeGameObjects: 0
+  materials:
+  - {instanceID: 0}
+  _extensions: []
+  _textures:
+  - texture: {fileID: 2800000, guid: d8e7f51772fe4184b834290071f53133, type: 3}
+    shouldBeLinear: 1
+  - texture: {fileID: 2800000, guid: b910835b7568187469ff1745b7d9154b, type: 3}
+    shouldBeLinear: 0
+  - texture: {fileID: 2800000, guid: 08b6fab3c9151f94dab56bcebdf0580d, type: 3}
+    shouldBeLinear: 1
+  _mainAssetIdentifier: scenes/Scene

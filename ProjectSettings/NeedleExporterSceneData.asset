@@ -19,7 +19,23 @@ MonoBehaviour:
     BuilderScene: 
   - Path: Assets/Scenes/MecabricksTest_01.unity
     Projects:
-    - ProjectPath: Needle/newProject
+    - ProjectPath: Needle/newProject5
+    BuilderScene: 
+  - Path: Assets/Scenes/MecabricksTest_01_Works.unity
+    Projects:
+    - ProjectPath: Needle/newProject5
+    BuilderScene: 
+  - Path: Assets/Scenes/MecabricksPolyhavenTest_01.unity
+    Projects:
+    - ProjectPath: Needle/newProject5
+    BuilderScene: 
+  - Path: Assets/Scenes/TutorialTest_01.unity
+    Projects:
+    - ProjectPath: Needle/newProjectTutorial01_02
     BuilderScene: 
   Projects:
   - ProjectPath: Needle/newProject
+  - ProjectPath: Needle/newProject2
+  - ProjectPath: Needle/newProject5
+  - ProjectPath: Needle/newProject6
+  - ProjectPath: Needle/newProjectTutorial01_02
